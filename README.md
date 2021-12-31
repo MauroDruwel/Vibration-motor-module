@@ -1,7 +1,8 @@
-# WPSE477 Force sensing resistor sensor module
+# WPM458 vibration motor module
+This repository is based on [the product's repository](https://github.com/WhaddaMakers/WPM458)
 
-This example shows how to measure the output of HC-SR05 ultrasonic distance sensor with an Arduino® compatible board.
-The example program prints the distance between the sensor and an object.
+This example shows how you can use the Whadda WPM458 vibration motor module with an Arduino® compatible board.
+The example program produces the classic "Nokia SMS vibration" pattern on the vibration motor.
 
 ## Library dependencies
 * None
@@ -10,5 +11,4 @@ The example program prints the distance between the sensor and an object.
 ![](./wiring_diagram_bb.png)
 
 ## Additional information
-  For more information about the Whadda WPSE306 HC-SR05 ultrasonic distance sensor, check the manual available at [whadda.com](https://whadda.com)
-
+  For more information about the Whadda WPM458 vibration motor module, check the manual available at [whadda.com](https://whadda.com)
